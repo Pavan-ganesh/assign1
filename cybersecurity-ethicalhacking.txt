@@ -1,0 +1,173 @@
+android rat
+
+
+hacking secrets : hacking book written by  
+
+
+types of cyber attacks
+
+
+1 . phishing
+
+2 . keylogger  (spy application) all keyboards strokes
+
+3 . trojan  ( it a software gives the unauthorized full access )
+
+4 . social engineering 
+
+5 . xss (cross site scripting)
+
+6 . sniffers
+
+7 . man in the middle attack
+
+8 . dns spoofing
+
+9 . url Spoofing
+
+10 . Vulnerability & Exploits
+
+
+trojan example
+-----------------
+
+activTrak trojan for the laptop
+
+antivirus cannot stop the trojan
+
+firewalls are needed (hero)
+
+fake websites pages are present in openfish
+
+
+*** sectools.org website to known tools for hacking
+
+how to perform the man in the middle attack
+--------------------------------------------
+
+ip address and gateway 
+
+for linux  we use ***ettercat** software
+
+
+
+** to check for the virus we use *****virustotal.com**** 
+
+to compare the antivirus we use av-comparatives.orga
+
+
+virus source codes 
+
+1. malwares.com
+
+2. malshare.com
+
+we should run the malwares in *****sandbox*******
+
+1. any.run is a online sandbox
+
+---------------------------------------
+
+*. process explorer   
+
+
+*. process monitor   (we see what the malware does in the system)
+
+*. autorun for windows
+
+*.******TCPView is used show the connections we can use to detect the trozen
+
+
+day 2
+++++++
+
+  web applications security 
+------------------------------------
+
+   vulnerability   means weakness  
+   
+	Havij is the tool for the sql injection 
+
+  exploit
+
+  payload
+
+
+open web application security project (owasp.org)  ....................   website to learn     website securtiy
+
+owasp secure coding practices
+
+
+burp suite  (web application pen testing tool )  ************chala usefull tool **********
+
+
+brute force method to hack  using otp by passing
+
+ brute force with burp suite
+
+
+
+types of attacks
+
+ 1. cross side scripting
+
+ 2.sql injection
+
+3. cross side request forzery
+
+4. remote attack
+
+5.directory traversal attack
+
+6.web shell upload
+
+7.csrf
+
+8.remote code execution (rce)
+
+9.brute force attack
+
+
+-----------------------------------------
+
+afternoon
+++++++++
+
+kon-boot  is the tool used to break the laptop passwords (password bypassing tool)
+
+
+lopthcrack
+
+sam inside   (security account manager)
+
+ophcrack
+
+linux passwords breaking **** john the reper *****
+
+
+passwords are stored in the laptop 
+
+(cain and able)  tool to break the password 
+
+to secure our laptop from this  breaking tools 
+
+enable bitlocker 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
